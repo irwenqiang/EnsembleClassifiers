@@ -12,30 +12,30 @@ Version=1.3.0
 Date=2011-06-02
 
 # Title (required)
-Title=A wrapper class for the liblinear classifier
+Title=LibD3C: Ensemble classifiers with a clustering and dynamic selection strategy
 
-Category=Classification
+Category=Ensemble learning
 
 # Author (required)
-Author=Benedikt Waldvogel <mail@bwaldvogel.de>
+Author=Quan Zou <zouquan@xmu.edu.cn> Wen-Qiang Chen <chenwq@stu.xmu.edu.cn>
 
 # Maintainer (required)
-Maintainer=Benedikt Waldvogel <mail@bwaldvogel.de>
+Maintainer=Wen-Qiang Chen <chenwq@stu.xmu.edu.cn>
 
 # License (required)
 License=GPL 2.0
 
 # Description (required)
-Description=A wrapper class for the liblinear classifier. Rong-En Fan, Kai-Wei Chang, Cho-Jui Hsieh, Xiang-Rui Wang, Chih-Jen Lin (2008). LIBLINEAR - A Library for Large Linear Classification.
+Description=LibD3C: Ensemble classifiers with a clustering and dynamic selection strategy Chen Lin, Wenqiang Chen, Cheng Qiu, Yunfeng Wu, Sridhar Krishnan, Quan Zou
 
 # Package URL for obtaining the package archive (required)
-PackageURL=http://cloud.github.com/downloads/bwaldvogel/liblinear-weka/LibLINEAR-1.8.0.zip
+PackageURL=https://git.oschina.net/irwenqiang/LibD3C/repository/archive
 
 # URL for further information
 URL=http://github.com/bwaldvogel/liblinear-weka
 
 # Related to other packages?
-Related=LibSVM
+Related=http://datamining.xmu.edu.cn/software/libD3C/
 
 # Dependencies
 Depends=weka (>=3.7.1)
